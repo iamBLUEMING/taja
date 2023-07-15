@@ -13,5 +13,5 @@ Contact : david@surv.ltd
     2. OpenAI API KEY
         www.openai.com 가입하면 무료 3개월 5달러
     3. MySQL 서버
-       내부/외우 서버 ㄱㄴ
+       내부/외부 서버 ㄱㄴ
        makedb.py를 통해 데이터베이스 설정하기
